@@ -1,1 +1,2 @@
-# Sophie-s-Repo
+# Sophie's Repository
+This is for lab use.
